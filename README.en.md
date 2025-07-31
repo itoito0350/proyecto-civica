@@ -4,6 +4,10 @@
 
 Mobile Platform for Citizen Communication and Municipal Management
 
+## Source Code
+
+The complete source code is available in this repository: https://github.com/itoito0350/civic
+
 ---
 
 ## 🧠 Overview
